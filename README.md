@@ -48,3 +48,10 @@
 ```bash
 git clone https://github.com/your-username/live-streaming-app.git
 cd live-streaming-app
+```
+2.**Get Agora Credentials**  
+Sign up on Agora.io  
+Create a project & copy:  
+App ID  
+Temporary Token  
+Configure main.js  
