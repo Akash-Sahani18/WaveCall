@@ -49,9 +49,55 @@
 git clone https://github.com/your-username/live-streaming-app.git
 cd live-streaming-app
 ```
-2.**Get Agora Credentials**  
-Sign up on Agora.io  
-Create a project & copy:  
-App ID  
-Temporary Token  
-Configure main.js  
+2. **Get Agora Credentials**  
+- Sign up on Agora.io  
+- Create a project & copy:  
+  - App ID  
+  - Temporary Token  
+3. **Configure main.js**
+```js
+    let config = {
+    appid: "YOUR_APP_ID",
+    token: "YOUR_TEMP_TOKEN",
+    uid: null,
+    channel: "liveStream",
+};
+```
+4. **Run the App**    
+Open index.html in your browser!
+ ## 🖼️ UI Overview
++------------------------------+
+|         Live Stream          |
+|------------------------------|
+|  [Camera] [Mic] [Leave]      |
+|------------------------------|
+|    User Video Grid           |
++------------------------------+
+
+- 🟣 add-user-account-icon.svg — Join button
+
+- 🎙️ microphone-solid.svg — Mic toggle
+
+- 🎥 camera-solid.svg — Camera toggle
+
+- 📞 hang-up.svg — Leave stream
+
+  ## ⚠️ Common Gotchas
+- 🔒 Browser permissions needed (Mic/Camera).
+
+- 🕑 Tokens expire after a time. Use temp tokens only for dev.
+
+- 🔁 Rejoining after leave requires refreshing Agora client state.
+
+## 🌍 Let's Connect
+If you found this useful or want to collaborate:  
+
+⭐ Star the repo  
+🐛 Report issues  
+🚀 Contribute features  
+
+Made with ❤️ and Agora 🎥  
+
+## 🧑‍💻 Developer  
+*Akash Sahani*  
+📫 [GitHub](https://github.com/Akash-Sahani18) | [LinkedIn](https://www.linkedin.com/in/akash-sahani-440147243)
