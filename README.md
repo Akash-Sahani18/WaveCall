@@ -3,14 +3,13 @@
 > Real-time video & audio streaming right from your browser — powered by Agora SDK.
 
 ![Status](https://img.shields.io/badge/Live-Working-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)
 ![Tech](https://img.shields.io/badge/Built%20with-JS%20%7C%20Agora%20SDK%20%7C%20HTML%2FCSS-orange?style=flat-square)
 
 ---
 
 ## 🌐 Live Demo
 
-🚀 Click here to try it out: [Live Preview](#) *(Add your deployment link)*  
+🚀 Click here to try it out: [Live Preview](#) *(Deployment link)*  
 📸 See it in action:
 
 ![Live Preview Gif](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
