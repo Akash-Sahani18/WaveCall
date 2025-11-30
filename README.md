@@ -13,7 +13,7 @@
 📸 See it in action:
 
 ![Live Preview Gif](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
-*(To be added soon) (Replace with your actual preview GIF or screenshot)*
+*(To be added soon)
 
 ---
 
